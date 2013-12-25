@@ -79,6 +79,7 @@ Broken link checker --- 7
 wp-db-backup --- 9
 redirecction --- 8
 pretty link lite --- 7
+smoot page scroll --- 7
 
 
 
